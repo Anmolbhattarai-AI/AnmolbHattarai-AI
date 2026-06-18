@@ -62,6 +62,38 @@ FastAPI • REST APIs
 Tools:
 Git • GitHub • VS Code
 
+## GitHub Statistics
+### Explainable Healthcare AI
+
+Cardiovascular Disease Risk Prediction using Explainable AI (SHAP) and evidence-based feature validation.
+
+🔗 Repository:
+https://github.com/Explainable-Healthcare-AI/Explainable-Healthcare-AI-Research
+
+### MedQuery AI
+
+Medical Retrieval-Augmented Generation chatbot using FastAPI, Qdrant, Sentence Transformers and Gemini.
+
+🔗 Repository:
+https://github.com/Anmolbhattarai-AI/medical-rag-chatbot
+
+## Technical Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- Explainable AI (SHAP)
+- FastAPI
+- Qdrant
+- Retrieval-Augmented Generation (RAG)
+- SQLite
+- Git & GitHub
+- Research Writing
+
+- ## Achievements
+- Conducting research in Explainable Healthcare AI
+- Developed Medical RAG Chatbot using FastAPI and Gemini
+
 ## Connect With Me
 
 LinkedIn:
